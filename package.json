@@ -1,0 +1,17 @@
+{
+  "name": "web-scraping-script",
+  "version": "2.0.0",
+  "description": "A puppeteer script for web scraping",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^23.10.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
