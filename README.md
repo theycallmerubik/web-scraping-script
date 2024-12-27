@@ -90,13 +90,6 @@ This script performs the following key functions:
 
 ---
 
-## Deployment
-
-- This script is intended to run alongside your **Telegram bot**.
-- Deploy it to a hosting platform such as [Railway.app](https://railway.app/) or [Glitch](https://glitch.com/) for continuous execution.
-
----
-
 ## Troubleshooting
 
 - **Login Issues**: Ensure your Jeton username and password are correct and match the credentials in the `.env` file.
