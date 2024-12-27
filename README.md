@@ -108,5 +108,5 @@ This script is licensed under the MIT License.
 
 For questions or suggestions, contact:
 
-- Telegram: @Ru\_bic  
-- Email: [rubikmanyt@Gmail.com](mailto:rubikmanyt@gmail.com)
+- Telegram: [@Ru\_bic](https://t.me/Ru_Bic)
+- Email: [rubikmanyt@Gmail.com](mailto\:rubikmanyt@Gmail.com)
